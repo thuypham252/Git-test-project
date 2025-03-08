@@ -4,6 +4,7 @@
 *.doc
 *.docx
 *.jpg
+*.ps
 
 # Ignoring the whole folder and all its contents
 /screen_captures

@@ -1,5 +1,6 @@
 # File: 	git_test.py
-# Auhor:	Sanna Maatta
+# Auhor:	Thuy Pham
 # Description: Code for git testing purposes
+print("Hello! I am Thuy.")
+print("I am very familiar with Git.")
 
-print("I am very familiar with Git")
