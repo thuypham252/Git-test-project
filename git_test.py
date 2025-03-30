@@ -3,5 +3,3 @@
 # Description: Code for git testing purposes
 print("Hello! I am Thuy.")
 print("I am very familiar with Git.")
-
-print("branch named: development")
