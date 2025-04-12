@@ -1,6 +1,6 @@
-print("This is a new file!!!!")
+print("This is an old")
 
 
-print("Anh Phuc dep trai so mot the gioi")
+print("Anh Phuc dep trai so mot the gioi!!!!")
 
 
